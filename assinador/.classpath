@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/br/com/techlead/libs/bcmail-jdk15-133.jar"/>
+	<classpathentry kind="lib" path="src/br/com/techlead/libs/bcprov-jdk15-133.jar"/>
+	<classpathentry kind="lib" path="src/br/com/techlead/libs/bctsp-jdk15-133.jar"/>
+	<classpathentry kind="lib" path="src/br/com/techlead/libs/assembla_msks_jce.jar"/>
+	<classpathentry kind="lib" path="src/br/com/techlead/libs/sunpkcs11.jar"/>
+	<classpathentry kind="lib" path="src/br/com/techlead/libs/commons-io-2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
